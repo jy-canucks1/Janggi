@@ -117,9 +117,9 @@ void Board::initBoard(int x) {
     board[8][4].setPiece(std::make_shared<General>(Colour::Green));
     greenGeneralPos = {8, 4};
     board[9][5].setPiece(std::make_shared<Guard>(Colour::Green));
-    board[9][ehposition[0][2]].setPiece(std::make_shared<Elephant>(Colour::Green));
+    board[9][ehposition[1][2]].setPiece(std::make_shared<Elephant>(Colour::Green));
     board[7][7].setPiece(std::make_shared<Cannon>(Colour::Green));
-    board[9][ehposition[0][3]].setPiece(std::make_shared<Horse>(Colour::Green));
+    board[9][ehposition[1][3]].setPiece(std::make_shared<Horse>(Colour::Green));
     board[9][8].setPiece(std::make_shared<Chariot>(Colour::Green));
     for (int i = 0; i < boardSizeC; ++i) {
         if(board[6][i].getColour() == Colour::Green && i%2 == 0){
