@@ -161,7 +161,7 @@ Shows the final score.
 
 ![K-020](https://github.com/jy-canucks1/Janggi/assets/84373345/7c2089d4-b0e6-43b2-ab9b-9c0fbb8e5576)
 
-4. Once one side types the commend line, the other side sees the waiting message.
+4. While one side is typing the commend line, the other side looking at the waiting message.
 
 ![K-015](https://github.com/jy-canucks1/Janggi/assets/84373345/7bbda528-8b3b-42e0-ae19-398c069c832b)
 
