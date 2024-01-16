@@ -4,7 +4,7 @@ Korean Chess "Janggi" game available online and offline
 ## Language, Framework, Idea
 
 * C++ and X11 for the game part
-* C for the socket programming part
+* C for the socket programming part(TCP/IP) 
 * MVC model
 * Work done in Linux environment
 
