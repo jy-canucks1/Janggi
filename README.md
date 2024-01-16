@@ -1,6 +1,13 @@
 # Janggi
 Korean Chess "Janggi" game available online and offline
 
+## Language, Framework, Idea
+
+* C++ and X11 for the game part
+* C for the socket programming part
+* MVC model
+* Work done in Linux environment
+
 ## Traditional Game setting
 
 ![280px-Janggi](https://github.com/jy-canucks1/Janggi/assets/84373345/c13f7590-6f0b-4c59-9868-7ba8ccad6614)
