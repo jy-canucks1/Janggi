@@ -14,20 +14,19 @@ Korean Chess "Janggi" game available online and offline
 
 ## Starting UI
 
-Set up
-
-![K-003](https://github.com/jy-canucks1/Janggi/assets/84373345/f91e78a7-09d0-4f6b-8b58-9ee30be5e93a)
-
 Game
-
-* game after setup
-
-![K-004](https://github.com/jy-canucks1/Janggi/assets/84373345/9e2efd26-acb6-4edd-90d5-9daac0d7a1f3)
 
 * default game
 
 ![K-030](https://github.com/jy-canucks1/Janggi/assets/84373345/7b4fc790-d693-4035-adcf-a2a66c25c5cd)
 
+* game after setup
+
+![K-004](https://github.com/jy-canucks1/Janggi/assets/84373345/9e2efd26-acb6-4edd-90d5-9daac0d7a1f3)
+
+Set up
+
+![K-003](https://github.com/jy-canucks1/Janggi/assets/84373345/f91e78a7-09d0-4f6b-8b58-9ee30be5e93a)
 
 ## Pieces
 General(King in chess) is G(green/blue) or g(red).
