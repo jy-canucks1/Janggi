@@ -12,6 +12,23 @@ Korean Chess "Janggi" game available online and offline
 
 ![280px-Janggi](https://github.com/jy-canucks1/Janggi/assets/84373345/c13f7590-6f0b-4c59-9868-7ba8ccad6614)
 
+## Starting UI
+
+Set up
+
+![K-003](https://github.com/jy-canucks1/Janggi/assets/84373345/f91e78a7-09d0-4f6b-8b58-9ee30be5e93a)
+
+Game
+
+* game after setup
+
+![K-004](https://github.com/jy-canucks1/Janggi/assets/84373345/9e2efd26-acb6-4edd-90d5-9daac0d7a1f3)
+
+* default game
+
+![K-030](https://github.com/jy-canucks1/Janggi/assets/84373345/7b4fc790-d693-4035-adcf-a2a66c25c5cd)
+
+
 ## Pieces
 General(King in chess) is G(green/blue) or g(red).
 
@@ -81,22 +98,6 @@ You must call Bikjang to confirm Bikjang. Then 0.5pt is given to each side.
 The Generals(Kings) may face each other on the same file in Janggi. This creates a situation called bikjang ("laughing generals"). The next player to move has two choices: make a move to break bikjang (for example by moving the king or moving a piece in between), or pass the turn, causing the game to end in a draw.
 
 link: https://www.pychess.org/variants/janggi
-
-## Starting UI
-
-Set up
-
-![K-003](https://github.com/jy-canucks1/Janggi/assets/84373345/f91e78a7-09d0-4f6b-8b58-9ee30be5e93a)
-
-Game
-
-* game after setup
-
-![K-004](https://github.com/jy-canucks1/Janggi/assets/84373345/9e2efd26-acb6-4edd-90d5-9daac0d7a1f3)
-
-* default game
-
-![K-030](https://github.com/jy-canucks1/Janggi/assets/84373345/7b4fc790-d693-4035-adcf-a2a66c25c5cd)
 
 ## commend lines
 
