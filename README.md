@@ -97,13 +97,13 @@ Game
 
 \+ piece position
 
-Places the piece at the position
+Places the piece at the position.
 
 ![K-003](https://github.com/jy-canucks1/Janggi/assets/84373345/71cc300f-a19c-4f18-a20e-08a49ee097a1)
 
 \- position
 
-Removes the piece from the position
+Removes the piece from the position.
 
 done
 
@@ -150,8 +150,8 @@ Shows the final score.
 
 ## Online mode
 
-1. Select Online mode
-2. Create the Session(server side) and Wait for the user joining the session(client side)
+1. Select Online mode.
+2. Create the Session(server side) and Wait for the user joining the session(client side).
 
 ![K-012](https://github.com/jy-canucks1/Janggi/assets/84373345/f3a516db-4d76-4ece-9d90-b76d7a41be32)
 
