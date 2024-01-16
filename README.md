@@ -102,9 +102,9 @@ link: https://www.pychess.org/variants/janggi
 
 setup
 
-![K-003](https://github.com/jy-canucks1/Janggi/assets/84373345/f91e78a7-09d0-4f6b-8b58-9ee30be5e93a)
-
 Starts setup mode
+
+![K-003](https://github.com/jy-canucks1/Janggi/assets/84373345/f91e78a7-09d0-4f6b-8b58-9ee30be5e93a)
 
 \+ piece position
 
