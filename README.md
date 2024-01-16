@@ -133,7 +133,7 @@ Skips the turn.
 
 resign
 
-Give up the game. The winner gets 1pt.
+Gives up the game. The winner gets 1pt.
 
 ![K-016](https://github.com/jy-canucks1/Janggi/assets/84373345/fc1ac278-201f-45f9-8e1b-58a3db485bcd)
 
