@@ -95,12 +95,12 @@ Game
 
 * setup
 
-+ piece position
+\+ piece position
 Places the piece at the position
 
 ![K-003](https://github.com/jy-canucks1/Janggi/assets/84373345/71cc300f-a19c-4f18-a20e-08a49ee097a1)
 
-- position
+\- position
 Removes the piece from the position
 
 done
