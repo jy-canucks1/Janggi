@@ -88,7 +88,7 @@ Game
 ![K-004](https://github.com/jy-canucks1/Janggi/assets/84373345/9e2efd26-acb6-4edd-90d5-9daac0d7a1f3)
 
 * default game
-* 
+
 ![K-030](https://github.com/jy-canucks1/Janggi/assets/84373345/7b4fc790-d693-4035-adcf-a2a66c25c5cd)
 
 ## commend lines
