@@ -96,11 +96,13 @@ Game
 * setup
 
 \+ piece position
+
 Places the piece at the position
 
 ![K-003](https://github.com/jy-canucks1/Janggi/assets/84373345/71cc300f-a19c-4f18-a20e-08a49ee097a1)
 
 \- position
+
 Removes the piece from the position
 
 done
@@ -110,16 +112,19 @@ done
 * game
 
 game human human
+
 Two human players attend. (Adding the option for game with computer like "game human computer" is under consideration.)
 
 ![K-030](https://github.com/jy-canucks1/Janggi/assets/84373345/000c4061-7923-47d1-b6cd-0d9a9650ff81)
 
 move start_position end_position
+
 Moves the piece from the start_position to the end_position.
 
 ![K-006](https://github.com/jy-canucks1/Janggi/assets/84373345/263ae642-1328-46fc-a04d-c5137d8ac1d3)
 
 pass
+
 Skips the turn.
 
 ![K-005](https://github.com/jy-canucks1/Janggi/assets/84373345/cbd984b6-fb9e-41f1-850e-9849a6cc397b)
@@ -127,6 +132,7 @@ Skips the turn.
 ![K-017](https://github.com/jy-canucks1/Janggi/assets/84373345/f76fe53f-7eac-4762-bf54-490f961d8079)
 
 resign
+
 Give up the game. The winner gets 1pt.
 
 ![K-016](https://github.com/jy-canucks1/Janggi/assets/84373345/fc1ac278-201f-45f9-8e1b-58a3db485bcd)
@@ -136,6 +142,7 @@ Give up the game. The winner gets 1pt.
 ![K-019](https://github.com/jy-canucks1/Janggi/assets/84373345/2664a026-37fe-4295-9f05-2b16479e5c1a)
 
 Ctrl + D (EOF)
+
 Shows the final score.
 
 ![K-007](https://github.com/jy-canucks1/Janggi/assets/84373345/77319268-ad44-448b-9a30-eaf12fe64f20)
