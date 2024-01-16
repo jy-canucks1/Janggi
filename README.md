@@ -12,21 +12,19 @@ Korean Chess "Janggi" game available online and offline
 
 ![280px-Janggi](https://github.com/jy-canucks1/Janggi/assets/84373345/c13f7590-6f0b-4c59-9868-7ba8ccad6614)
 
-## Starting UI
+## UI
 
 Game
 
-* default game
+* Default game(Text display and Graphics display)
 
 ![K-030](https://github.com/jy-canucks1/Janggi/assets/84373345/7b4fc790-d693-4035-adcf-a2a66c25c5cd)
 
-* game after setup
+* Game after setup
 
 ![K-004](https://github.com/jy-canucks1/Janggi/assets/84373345/9e2efd26-acb6-4edd-90d5-9daac0d7a1f3)
 
-Set up
 
-![K-003](https://github.com/jy-canucks1/Janggi/assets/84373345/f91e78a7-09d0-4f6b-8b58-9ee30be5e93a)
 
 ## Pieces
 General(King in chess) is G(green/blue) or g(red).
@@ -100,7 +98,13 @@ link: https://www.pychess.org/variants/janggi
 
 ## commend lines
 
-* setup
+* Setup
+
+setup
+
+![K-003](https://github.com/jy-canucks1/Janggi/assets/84373345/f91e78a7-09d0-4f6b-8b58-9ee30be5e93a)
+
+Starts setup mode
 
 \+ piece position
 
@@ -116,7 +120,7 @@ done
 
 ![K-004](https://github.com/jy-canucks1/Janggi/assets/84373345/b098ee59-bac5-49c4-a9fb-98e3a020ed31)
 
-* game
+* Game
 
 game human human
 
